@@ -7,9 +7,10 @@ Synthetic data generator for MLDA
 You can generate systhetic data for LDA  
 `python3 generator_lda.py`  
 - "tr.txt" is a training data for LDA
-- "tr.z" is a label data (Topic propotion)
+- "tr.z" is a label data (Topic propotion)  
+
+You can generate "te.txt" is a test data for LDA  
 `python3 generator_lda.py --test True`  
-- You can generate "te.txt" is a test data for LDA
 - "te.txt" is a test data for LDA
 - "te.z" is a label data (Topic propotion)
 
