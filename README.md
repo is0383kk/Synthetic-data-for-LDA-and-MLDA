@@ -34,7 +34,7 @@ When you do clustering by using LDA or MLDA
 `python3 generator_lda.py --mode True`  
 `python3 generator_mlda.py --mode True`  
 - mode==True : You can operate word distribution  
-For example(Topic = 3, Words=10, Length of hist=6, Height of hist=4):  
+For example(Topic = 3, Words = 10, Length of hist = 6, Height of hist = 4):  
 [5 5 0 0 0 0 ] label is 0  
 [0 0 6 4 0 0 ] label is 1  
 [0 0 0 0 3 7 ] label is 2  
