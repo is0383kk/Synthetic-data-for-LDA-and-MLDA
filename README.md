@@ -24,7 +24,7 @@ You can generate systhetic data for MLDA
 When you do clustering by using LDA or MLDA  
 **PLEASE Set MODE to True**
 `python3 generator_lda.py --mode True`  
-- mode==True : You can operate word distribution
+- mode==True : You can operate word distribution  
 For example(Topic = 3,Words=10,Length of hist=6):  
 [5 5 0 0 0 0 ] label is 0  
 [0 0 6 4 0 0 ] label is 1  
